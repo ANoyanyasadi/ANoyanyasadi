@@ -13,6 +13,6 @@
 
 📫 How to reach me react.ilk6ay@gmail.com
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=ANoyanyasadi&show_icons=true&theme=gradient) 
+
 
 
